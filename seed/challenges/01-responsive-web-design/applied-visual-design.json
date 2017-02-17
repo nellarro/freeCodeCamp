@@ -1137,7 +1137,7 @@
         "  ",
         "  ",
         "</style>",
-        "<a href=\"https://atjonathan.github.io/catphotoapp\" target=\"_blank\">CatPhotoApp</a>"
+        "<a href=\"http://freecatphotoapp.com/" target=\"_blank\">CatPhotoApp</a>"
       ],
       "tests": [
         "assert($('a').css('color') == 'rgb(0, 0, 0)', 'message: The <code>color</code> of the anchor tag text should be black.')"
